@@ -22,7 +22,7 @@ I modelled everything as one box with the hole in the top (the blue part) and ad
 ![Image description](https://useless.blue/media/posts/8/gallery/20190324-MidiController-v3.png)
 ![Image description](https://useless.blue/media/posts/8/gallery/IMG_20190328_172648.jpg)
 ![Image description](https://useless.blue/media/posts/8/gallery/Poti-Knob-v3.png)
-The Fusion 360 files for the parts and the stls can be downloaded here: http://useless.blue/media/files/MidiController.zip
+The Fusion 360 files for the parts and the stls can be downloaded here: https://github.com/4dvn/3x3-Midi-Controller/tree/master/Case
 ## Electronics
 I put all the potentiometers in their holes. It was a pretty tight fit, some pins had to be bent. The next time I will give me a millimetre or two more.
 
