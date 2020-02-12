@@ -1,4 +1,6 @@
 ## 3x3-Midi-Controller
+![Image description](https://useless.blue/media/posts/8/responsive/IMG_20190330_121643-md.jpg)
+
 I wanted to build a small midi controller. It should be cheap, 3d-printable and with usb.
 ## Table of Contents
 * Parts
